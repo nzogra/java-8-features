@@ -11,6 +11,6 @@ import ca.zografakis.lambda.explore.person.Person;
  */
 public interface PersonOps {
 	
-	String personOperations (Person p);
+	public String personOperations (Person p);
 	
 }
